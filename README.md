@@ -52,6 +52,14 @@ The system follows this pipeline:‎
 ```
 
 The project was developed as a prototype for **autonomous navigation, robotics, and intelligent transportation systems**.
+---
+<p align="center">
+  <img src="Images/robot.jpg" width="700">
+</p>
+
+<p align="center">
+  <em>Autonomous robot prototype developed for this project.</em>
+</p>
 
 ---
 
@@ -291,7 +299,14 @@ Traffic Sign Crop
 CNN
 Semantic Classification
 ```
+### Detection Examples
 
+<p align="center">
+  <img src="Images/left.jpg" width="45%">
+  <img src="Images/right.jpg" width="45%">
+  <img src="Images/stop.jpg" width="45%">
+  <img src="Images/limits.jpg" width="45%">
+</p>
 ---
 
 # Real-Time Processing

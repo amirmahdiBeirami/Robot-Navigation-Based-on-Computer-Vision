@@ -1,1 +1,1 @@
-arduino codes
+ino codes
